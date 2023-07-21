@@ -1,7 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "80s Neon",
+  "cssTheme": "dracula",
   "theme": "obsidian",
   "translucency": true,
-  "nativeMenus": false
+  "enabledCssSnippets": [
+    "hacks"
+  ],
+  "baseFontSize": 12
 }
